@@ -1,0 +1,15 @@
+/*
+Theme Name: jordvand9
+Author: Jordy Van der Haegen
+Author URI: https://wordpress.org/
+Description: This is a theme made from scratch
+Version: 1.0
+Text Domain: twentyseventeen
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+body {
+  background-color: yellow;
+}
+li {
+  list-style-type: none;
+}
